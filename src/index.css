@@ -1,5 +1,7 @@
 * {
   font-family: Helvetica, Arial, sans-serif;
+  background-color: gray;
+  color: wheat;
 }
 
 body {
@@ -11,6 +13,7 @@ input {
   color: grey;
   font-size: 1.2rem;
   width: 100%;
+  background-color: white;
 }
 
 .card-grid {
@@ -20,9 +23,8 @@ input {
 }
 
 .card {
-  max-width: 250px;
   align-content: center;
-  border: 1px solid grey;
+  border: 1px solid rgb(241, 239, 239);
   border-radius: 6px;
   margin-bottom: 10px;
   margin-right: 10px;

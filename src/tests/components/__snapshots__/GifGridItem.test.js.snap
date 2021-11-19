@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Probar el GifGridItem Debe rendereizar correctamente el componente 1`] = `
+<div
+  className="card animate__animated animate__fadeIn"
+>
+  <p>
+    Mi titulo
+  </p>
+  <img
+    alt="Mi titulo"
+    src="https://elcomercio.pe/resizer/3rNqVB9iUBkT2Y1LIS2i6qSyuro=/580x330/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/UQO2N3UJQFCVTASI64CXYMKS6U.jpg"
+  />
+</div>
+`;
